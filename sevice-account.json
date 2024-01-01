@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "house-marketplace-app-34d53",
+  "private_key_id": "5ab7d795492b5aff5fb462cb03113aa87149067f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWN6wwVilPf57z\nRhoWM+d/5iNeb6nnP2VcEHQXALVz3l5/4/BFIFyfpeXlbNJq4z5EfaZ3GMwcpCWk\nnFbvYIwZGKz3S6g9xzPIrOYgBsJNhZEpuqIju4Z0DsGJjCGlMD3MskPeGrIYZJ94\nXhcOmVBzDb3PvAhfCpPZP/FUAXvubd1lGu+nS1ICXKQGwX6BmxjBdma8CvGXDJjL\nZzSFkUqU+/kYrCjTmSNT4s2NaG3OBLeWTtBcGOCARXCa64nodnd3T0rmK9swTPHY\nD5GOMj6aqBp4pU1ZZFd/0Lw5eQHcentTKWv0FaEtXEUSmV0UpxdTwajHqfopGMzU\n8vUxh/+5AgMBAAECggEANPYX7UrTccXrApZaqC1Ql1VKbwcrfe5qDBV4+Is1bk6e\nPrTch2KrhVX2QfcmEK1hzMAIKsFBZW+yHeFI/Uiq3EZI5T91Z6KN7ViYIf6ADtji\nnzW/6J07ADwbnCUdz6G8iCjpqKr804DWgJebxXfkV0wm+dCvmuKd0eCrcxS63wqu\n1Z5NHZd4kVGFEFid8+fmeNENzv9UeQN+KHZLcciqos0SV00Yq5zMh8kEQBpCkUmS\ne2uUiPu1G1y7w6tDzZeK9qE2ICCE/y8BNa4OwHiG+sHvKTk6WiPTZVsLJY+CfPH/\n+sLIfKomDzQmgpHxwZM8v291opf4lxtDsajmW/8e6QKBgQDFk7HCsbGxcVh79sOp\nY5Nml0V8b2kDYd2mYRNwkFzzbZqfws6oBzDpV7sgs1uUM75VSTvSjDwNXskE6zlP\nAUuveNJ2AvDojdRheKgbTPpADmeUaaxU0FHygDoOytTV+MBUyJcTU5PHMirDNIG6\nHwX95NFs2BeFoq9eJm8wjiBu1wKBgQDCou5uISKzD25Ql6D2PSR/hi1ik5J94ZnZ\nk206FdImf8ZV/D1GBo68oGDjgUbPU3Q7pS06V+okIZ7oykZ6Wyzm/gU11uchhp4N\nXNHXXuWz7NT3TIwhvE0IHjUEr8feX4t5VxD4OGupnaizzi1kkNceaV/QT2m8h27J\nMJ/SJSwD7wKBgQCenIbkCcrg7GFggyVoYqv+fAoobzgaowJRgzUb9IjqU18CSl2k\nvsEhUnDDO7mVLETsKrJ/wFylTyaJcFy9dAjSgWhTnODRkKqi5T3vTMjJi8bTelIC\ndIqU5yO0pFhgviWI6s99kGbeTwPNWeWbCTTCMmN9wayAd63ZI3m3vSGEWQKBgFqK\nHEuSkmelJ/XJcxDYhF/l9LrEVwLDrSOvFsJMYEOUcJiTC5XFeyR3nlp2SpArDAiq\n340iVEKWeStk3MASJaMWSyouW7oWuvMQWHTNKiE2bCLVsuIGi/bYxmT1uA3TeDfr\nrnMpG7v9IPrzT95WGhuFfRKTvmX6wihIvC+vJvh1AoGAbq1ups9lNXEUguiZdpIN\nuCLUaetaGxE4mLd4iUnvL73XgFpN2SM6ljJ7OeTj+0Dig3u/boLlEQXPfE1DpFoO\nYbJ1S2/K1imOFZlUxvKqYA0+Y0SQRYKu+83g5QrQ0Slnp8J0QW3RzFNa1OTL1geJ\ntTT0uQRxK3WHH/YYXVT+ROs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-s4l5h@house-marketplace-app-34d53.iam.gserviceaccount.com",
+  "client_id": "115508491932217222412",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-s4l5h%40house-marketplace-app-34d53.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
